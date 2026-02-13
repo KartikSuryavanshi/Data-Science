@@ -35,7 +35,6 @@ It reflects my **end-to-end journey** from Python fundamentals to **production-r
 
 ### 🔹 Databases
 - SQL
-- MongoDB
 
 ### 🔹 Machine Learning
 - Supervised & Unsupervised Learning
@@ -53,16 +52,10 @@ It reflects my **end-to-end journey** from Python fundamentals to **production-r
 - NLP Pipelines
 - DL-based NLP techniques
 
-### 🔹 Generative AI & LLMs
-- Large Language Models (LLMs)
-- RAG (Retrieval-Augmented Generation)
-- LLM + Vector Database Architectures
-- LangChain & GenAI System Design
-
 ### 🔹 Web Development & APIs
 - Flask
-- REST APIs
 - Web Applications for ML & AI
+- Scikit-learn
 
 ### 🔹 Web Scraping
 - Data extraction techniques
