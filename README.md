@@ -1,4 +1,4 @@
-# 📊 Data Science & Engineering Repository
+# 📊 Data Science Repository
 
 ## 👤 Author
 **Kartik Suryavanshi**  
