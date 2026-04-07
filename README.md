@@ -11,54 +11,54 @@ It reflects my **end-to-end journey** from Python fundamentals to **production-r
 
 ## Skills & Technologies Covered
 
-### 🔹 Programming & Data Analysis
+### Programming & Data Analysis
 - Python (Core + Advanced)
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
 
-### 🔹 Statistics & Mathematics
+### Statistics & Mathematics
 - Probability
 - Probability Distributions
 - Descriptive & Inferential Statistics
 - Statistical Analysis for Machine Learning
 
-### 🔹 Data Science
+### Data Science
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Data Collection Techniques
 - Data Visualization
 
-### 🔹 Databases
+### Databases
 - SQL
 
-### 🔹 Machine Learning
+### Machine Learning
 - Supervised & Unsupervised Learning
 - Scikit-Learn
 - Model Evaluation & Optimization
 - End-to-End ML Projects
 
-### 🔹 Deep Learning
+### Deep Learning
 - Neural Networks
 - Deep Learning Architectures
 - Model Training & Evaluation
 
-### 🔹 Natural Language Processing (NLP)
+### Natural Language Processing (NLP)
 - Text Processing
 - NLP Pipelines
 - DL-based NLP techniques
 
-### 🔹 Web Development & APIs
+### Web Development & APIs
 - Flask
 - Web Applications for ML & AI
 - Scikit-learn
 
-### 🔹 Web Scraping
+### Web Scraping
 - Data extraction techniques
 - Real-world data collection projects
 
-### 🔹 MLOps & Deployment
+### MLOps & Deployment
 - Docker
 - Kubernetes
 - GitHub Actions (CI/CD)
