@@ -1,13 +1,9 @@
 # Data Science
 
----
-
 ## About This Repository
 This repository is a **comprehensive collection of Data Science, Machine Learning, Deep Learning, NLP, MLOps, and Generative AI learning resources, notebooks, projects, and reference materials**.
 
 It reflects my **end-to-end journey** from Python fundamentals to **production-ready AI systems**, including deployment, cloud, and MLOps practices.
-
----
 
 ## Skills & Technologies Covered
 
@@ -68,8 +64,6 @@ It reflects my **end-to-end journey** from Python fundamentals to **production-r
 - Monitoring (Grafana, Evidently AI)
 - AWS SageMaker
 
----
-
 ## Learning Resources Included
 - Detailed **handbooks & PDFs** for quick revision
 - Jupyter notebooks with **hands-on implementations**
@@ -77,8 +71,6 @@ It reflects my **end-to-end journey** from Python fundamentals to **production-r
 - Notes on **system design, deployment, and MLOps**
 - Cloud & Kubernetes architecture references
 - How LLM works?
-
----
 
 ## Project Highlights
 - Machine Learning projects with full pipelines
